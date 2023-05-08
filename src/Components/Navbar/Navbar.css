@@ -1,0 +1,21 @@
+.navb{
+    height: 7vh;
+    background-color: aqua;
+    color: white;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    
+}
+.rightnavb{
+    flex: 1;
+    /* background-color: blueviolet; */
+}
+.leftnavb{
+    flex: 2;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    /* background-color: antiquewhite; */
+
+}
